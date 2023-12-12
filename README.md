@@ -28,5 +28,10 @@ Example
 
 
 ## **Our AlexNet Model**
+[Wanb (Weights & Biases)](https://wandb.ai/site) helps AI developers build better models. Quickly track experiments, version and iterate on datasets, evaluate model performance, reproduce models, and manage ML workflows end-to-end. Researchers and data scientists use Wanb to track and compare model performance metrics, hyperparameters, and other experiment details in a collaborative and organized manner. We leveraged this platform to log and visualize our machine learning experiments. 
+
+![acc_train](acc_train.png)
+![loss](loss.png)
+
 
 
