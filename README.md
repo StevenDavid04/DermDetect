@@ -19,7 +19,14 @@ Many times when seeking professional help, we are often put on steroidal creams 
 + Our program will cross-reference the image with our database to identify the most liekly type of dermatitis
 + Based on the result, we'll offer steps you can take to treat your dermatitis
 
+
+## **[DataSet](https://docs.google.com/presentation/d/1de_ewFR2glJJFp4gsO9khWyvU8vNgPfl83DX63S9vN8/edit#slide=id.p)**
+Example
+
+<img src="Dermatitis2015.jpg" alt="Logo" width="300"/>    -vs-   <img src="stockhand.jpg" alt="Logo" width="300"/>
+
+
+
 ## **Our AlexNet Model**
 
 
-### **DataSet**
