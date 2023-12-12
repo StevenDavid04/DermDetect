@@ -18,7 +18,7 @@ Our approach involves testing the program on a dataset with 25 images of clear s
 
 ## **How it Functions**
 + Take a Picture of the affected area
-+ Our program will cross-reference the image with our database to identify the most liekly type of dermatitis
++ Our program will cross-reference the image with our database to identify the most likely type of dermatitis
 + Based on the result, we'll offer steps you can take to treat your dermatitis
 
 
