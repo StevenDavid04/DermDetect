@@ -1,4 +1,5 @@
 # DermDetect
-Mathematics for Data Science Final Project
 
   ![Alt Text](DermDetectLogo.png)
+
+ "Unleashing the Power of AI to Transform Skin Health – Your Smart Solution for Eczema Detection!"
